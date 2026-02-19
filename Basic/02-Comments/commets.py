@@ -10,6 +10,11 @@ This is a multi-line comment.
 It can span multiple lines.
 """
 
+## Another alternative
+'''
+This is another way to create a multi-line comment.
+''' 
+
 
 
 
