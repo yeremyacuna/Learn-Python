@@ -55,7 +55,7 @@ print(my_tuple[-1]) # 'GitHub' ####my_tuple[1] = 3 # This will raise an error be
     #2.2- Tuple methods
 print(len(my_tuple)) # 6
 print(my_tuple.count("hello")) # 2 (number of occurrences of "hello")
-print(my_tuple.index("GitHub")) # 6 (index of first occurrence of "GitHub")
+print(my_tuple.index("GitHub"), "\n") # 6 (index of first occurrence of "GitHub")
 
 ## ========== 3 Sets: unordered, mutable collections of unique items. ==========
     #- Can contain mixed types.

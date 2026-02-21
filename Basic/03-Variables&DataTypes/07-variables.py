@@ -32,4 +32,6 @@ age = input("How old are you?" )
 print(name)
 print(age)
 
-
+#7 You can specify the type of a variable using type hints, but it's not mandatory.
+age: int = 18
+print(age)
